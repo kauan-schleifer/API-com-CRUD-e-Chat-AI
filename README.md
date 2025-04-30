@@ -29,6 +29,8 @@ pip install fastapi uvicorn sqlalchemy pydantic
 
 pip install google-generativeai
 
+pip install python-dotenv
+
 ### 4. Rodar o Projeto
 uvicorn main:app --reload
 
