@@ -17,8 +17,8 @@
 ## 📦 Instalação e Execução
 ### 1. Clonar o Repositório
 git clone https://github.com/kauan-schleifer/API-com-CRUD-e-Chat-AI.git
-### 2. Criar pasta .env e colar chave API
-EX: GEMINI_API_KEY= SUA CHAVE API
+### 2. Criar arquivo .env e colar chave API
+GEMINI_API_KEY= SUA CHAVE API
 ### 3. Instalar Dependências
 pip install fastapi uvicorn sqlalchemy pydantic
 
